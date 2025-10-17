@@ -6,17 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Cool</h1>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <a>Hej! Jag heter Erik Knöös och jag är 22 år gammal. Jag gillar programmering och teknik.</a>
+
+
+      <a>Jag har bra kunskaper i frontend, backend, databaser och ramverk. Jag skulle säga att jag är bäst på java.</a>
+        <h3>
+          Projekt:
+        </h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/erikknoossti/TDD-blackjack-uppgift"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Blackjack Projekt
         </a>
       </header>
     </div>
